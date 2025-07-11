@@ -29,27 +29,3 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vinay1506&show_icons=true&theme=tokyonight" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vinay1506&theme=tokyonight" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinay1506&layout=compact&theme=tokyonight" width="48%"/>
-</p>
-
----
-
-## 📫 Let's Connect
-
-- 📧 Email: [vinaykakumnu1506@gmail.com](mailto:vinaykakumnu1506@gmail.com)
-- 💼 LinkedIn: [vinay-kakumanu-25407027b](https://linkedin.com/in/vinay-kakumanu-25407027b)
-- 💻 Portfolio (soon): `https://vinay1506.dev`
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vinay1506&label=Profile+Views&color=blue&style=flat-square" alt="vinay1506" />
-</p>
