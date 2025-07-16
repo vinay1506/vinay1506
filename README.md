@@ -2,7 +2,7 @@
 <h3 align="center">Software Developer | Java & MERN Stack | API & Cloud Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=440&lines=Welcome+to+my+GitHub+profile!;Building+scalable+APIs+%26+robust+systems+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=440&lines=Welcome+to+my+GitHub+profile!;Building+scalable+robust+systems+🚀" alt="Typing SVG" />
 </p>
 
 ---
@@ -34,14 +34,5 @@
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 
-
-
-## 🌐 Connect with Me
-
-- 📫 Email: [vinaykakumanu1506@gmail.com](mailto:vinaykakumanu1506@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/vinay-kakumanu-25407027b](https://linkedin.com/in/vinay-kakumanu-25407027b)  
-- 💻 GitHub: [github.com/vinay1506](https://github.com/vinay1506)
-
----
 
 _“Code is like humor. When you have to explain it, it’s bad.” – Cory House_
