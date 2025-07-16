@@ -9,12 +9,12 @@
 
 ## 🚀 About Me
 
-- 🎓 B.Tech CSE (Cyber Security) @ **SRM Institute of Science and Technology** (Graduating 2027)
+- 🎓 CS 
 - 💡 Passionate about building full-stack web applications and scalable APIs
 - 💻 Experienced in **Java (Spring Boot)**, **React.js**, **Node.js**, **Python**
 - ☁️ Exploring **AWS EC2/S3**, **Docker**, and DevOps tools
 - 📚 Learning **Distributed Systems**, **Fault Tolerance**, and **API Design**
-- 💬 Ask me about **Spring Boot**, **JWT**, **OAuth2**, or **Agile Development**
+- 💬  **Spring Boot**, **JWT**, **OAuth2**, or **Agile Development**
 
 ---
 
