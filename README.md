@@ -9,11 +9,11 @@
 
 ## 🚀 About Me
 
-- 🎓 CS 
+- 🎓 Computer Science And Engineering 
 - 💡 Passionate about building full-stack web applications and scalable APIs
 - 💻 Experienced in **Java (Spring Boot)**, **React.js**, **Node.js**, **Python**
 - ☁️ Exploring **AWS EC2/S3**, **Docker**, and DevOps tools
-- 📚 Learning **Distributed Systems**, **Fault Tolerance**, and **API Design**
+- 📚 Learning **Distributed Systems**, and **API Design**
 - 💬  **Spring Boot**, **JWT**, **OAuth2**, or **Agile Development**
 
 ---
